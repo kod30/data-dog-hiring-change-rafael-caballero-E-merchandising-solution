@@ -1,1 +1,1 @@
-# data-dog-hiring-change-rafael-caballero-E-merchandising-solution-
+# This directory contains all file for the Use Case 1: E-Merchandising Solution
