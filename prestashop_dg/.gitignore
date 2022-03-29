@@ -1,0 +1,12 @@
+
+.htaccess
+autoload.php
+composer.lock
+error500.html
+images.inc.php
+index.php
+init.php
+INSTALL.txt
+Install_PrestaShop.html
+LICENSES
+phpstan.neon.dist
